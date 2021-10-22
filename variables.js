@@ -1,0 +1,10 @@
+var famousPerson = "Bret Hart";
+var isActive = false;
+famousPerson = "CM Punk";
+var num3 = 10;
+var num9 = 28;
+var sum = num3 + num9;
+var animals = ["tiger", "dolphin", "otter"];
+animals.shift();
+console.log(animals);
+console.log(famousPerson.length);
